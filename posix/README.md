@@ -33,7 +33,7 @@ base command with a `subcommand`:
 git push
 ```
 
-base command with a `subcommand` and a argument: 
+base command with a `subcommand` and an argument: 
 ```
 git add <path>
 ```
@@ -48,7 +48,7 @@ base command multiple options:
 ls -la
 ```
 
-base command with a subcommand with a `option argument`
+base command with a subcommand with an `option argument`
 ```
 git commit -m "commit message"
 ```
