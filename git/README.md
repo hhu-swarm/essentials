@@ -104,4 +104,4 @@ In order to integrate your changes into a environment branch, you will need to m
 - now its time to create a pull request on github. This will ensure your changes are going to be **integrated** into the main (or testing/staging/production) branch
 - Your pull request will need to be approved by other members, who are capable to review your changes
     - If your request is declined, you will need to improve your changes. You`ll find a list of suggestions attached to the declined request 
-    - If your request is approved, it is integrated into the 
+    - If your request is approved, it is integrated into the respective environment branch
