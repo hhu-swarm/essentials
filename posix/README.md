@@ -30,6 +30,11 @@ ls <path>
 
 base command with a `subcommand`: 
 ```
+git push
+```
+
+base command with a `subcommand` and a argument: 
+```
 git add <path>
 ```
 
@@ -43,7 +48,7 @@ base command multiple options:
 ls -la
 ```
 
-base commaned with a subcommand with a `option argument`
+base command with a subcommand with a `option argument`
 ```
 git commit -m "commit message"
 ```
@@ -58,7 +63,7 @@ base command with two full-text options:
 ls --all --human-readable
 ```
 
-base commaned with a subcommand with a `full-text option argument`
+base commaned with a subcommand and a `full-text option argument`
 ```
 git commit --reuse-message=<commit>
 ```
